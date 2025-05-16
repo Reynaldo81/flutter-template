@@ -39,7 +39,7 @@ Widget transferDialog(BuildContext context) {
                   ),
                 ),
                 Text(
-                  "Confirm",
+                  "Confirmar",
                   style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                         fontSize: 20,
                         fontWeight: FontWeight.w800,
